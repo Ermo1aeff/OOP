@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\bin\Debug\net8.0\LR_1.exe
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\bin\Debug\net8.0\LR_1.deps.json
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\bin\Debug\net8.0\LR_1.runtimeconfig.json
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\bin\Debug\net8.0\LR_1.dll
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\bin\Debug\net8.0\LR_1.pdb
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.dll
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\refint\LR_1.dll
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.pdb
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\LR_1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ООП\LR_1\LR_1\obj\Debug\net8.0\ref\LR_1.dll
