@@ -6,8 +6,5 @@ using System.Threading.Tasks;
 
 namespace LR_1
 {
-    internal class Warehouse
-    {
-        
-    }
+
 }
