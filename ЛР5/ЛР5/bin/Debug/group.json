@@ -1,0 +1,21 @@
+{
+  "GroupName": "ИВБ-24",
+  "Students": [
+    {
+      "ListNumber": 1,
+      "FullName": "Иванов Иван Иванович",
+      "DateOfBirth": "2004-05-12T00:00:00",
+      "AcademicRating": 4.8,
+      "AdmissionYear": 2022,
+      "Residence": "Местный"
+    },
+    {
+      "ListNumber": 2,
+      "FullName": "Петрова Анна Сергеевна",
+      "DateOfBirth": "2005-11-23T00:00:00",
+      "AcademicRating": 5.0,
+      "AdmissionYear": 2023,
+      "Residence": "Иногородний"
+    }
+  ]
+}

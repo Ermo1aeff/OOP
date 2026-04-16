@@ -1,0 +1,10 @@
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\bin\Debug\ЛР6.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\bin\Debug\ЛР6.exe
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\bin\Debug\ЛР6.pdb
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.Form1.resources
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.Properties.Resources.resources
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.csproj.GenerateResource.cache
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.exe
+C:\Users\egork\OneDrive\Рабочий стол\ООП\ЛР6\ЛР6\obj\Debug\ЛР6.pdb
